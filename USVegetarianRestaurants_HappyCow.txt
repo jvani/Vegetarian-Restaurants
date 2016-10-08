@@ -1,0 +1,51 @@
+Alabama (106)\
+Alaska (80)\
+Arizona (382)\
+Arkansas (60)\
+California (2837)\
+Colorado (458)\
+Connecticut (193)\
+Delaware (41)\
+District of Columbia (139)\
+Florida (1119)\
+Georgia (351)\
+Hawaii (274)\
+Idaho (65)\
+Illinois (468)\
+Indiana (236)\
+Iowa (79)\
+Kansas (75)\
+Kentucky (106)\
+Louisiana (154)\
+Maine (153)\
+Maryland (304)\
+Massachusetts (439)\
+Michigan (411)\
+Minnesota (197)\
+Mississippi (37)\
+Missouri (186)\
+Montana (74)\
+Nebraska (52)\
+Nevada (172)\
+New Hampshire (114)\
+New Jersey (403)\
+New Mexico (139)\
+New York (1053)\
+North Carolina (427)\
+North Dakota (26)\
+Ohio (557)\
+Oklahoma (86)\
+Oregon (583)\
+Pennsylvania (529)\
+Rhode Island (53)\
+South Carolina (153)\
+South Dakota (23)\
+Tennessee (182)\
+Texas (798)\
+Utah (298)\
+Vermont (77)\
+Virginia (386)\
+Washington (453)\
+West Virginia (45)\
+Wisconsin (184)\
+Wyoming (36)\
